@@ -1,0 +1,490 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Advanced Disposal Services Morehead Landfill",
+        "SI Type": "Contained Landfill",
+        "Permit Exp. Date": " 06/30/2022",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.542572,
+          38.18923
+        ],
+        "type": "Point"
+      },
+      "id": "01d7db2278d40e4b73f9b984c91d3a05"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Republic Services Of KY LLC - Epperson Waste Disposal",
+        "Permit Exp. Date": " 06/29/2022",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.536517,
+          38.621641
+        ],
+        "type": "Point"
+      },
+      "id": "096c6a3aa25119ec01950740fc17ccc2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "County",
+        "Name": "Maysville-Mason Co Landfill",
+        "Permit Exp. Date": " 06/30/2022",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.713767,
+          38.577694
+        ],
+        "type": "Point"
+      },
+      "id": "0f7ee8dff5295fc1658777f2a4df0caa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Advanced Disposal Services Blue Ridge Landfill Inc",
+        "Permit Exp. Date": " 07/01/2022",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.982324,
+          37.743568
+        ],
+        "type": "Point"
+      },
+      "id": "1aed5395b361c9264a56a09072bac3ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Green Valley Landfill General Partnership",
+        "Permit Exp. Date": " 11/25/2025",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.806487,
+          38.397528
+        ],
+        "type": "Point"
+      },
+      "id": "1d02f0fe89ef8680d80a9850c0a582b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SI Type": "Contained Landfill",
+        "Name": "Bavarian Trucking Co Inc",
+        "Status": "Active",
+        "Permit Exp. Date": "06/11/2022",
+        "Entity Type": "Private"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.66774,
+          38.873188
+        ],
+        "type": "Point"
+      },
+      "id": "1fae15bef58767a82af2e387ca2dd3ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Rumpke of KY Inc - Pendleton Co Landfill",
+        "Permit Exp. Date": " 07/01/2023",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.403391,
+          38.732559
+        ],
+        "type": "Point"
+      },
+      "id": "237e72b937550234c70da5aedfe82482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Rumpke of KY Inc - Montgomery Co Landfill",
+        "Permit Exp. Date": " 04/08/2026",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.95288,
+          37.950588
+        ],
+        "type": "Point"
+      },
+      "id": "29e42301b0d03896b5bc9b61d2d5dd43"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "County",
+        "Name": "Nelson Co Solid Waste Disposal Facility",
+        "Permit Exp. Date": " 08/06/2025",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.54184,
+          37.823478
+        ],
+        "type": "Point"
+      },
+      "id": "32b9513409b0955aee774554f3c779f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Dozit Landfill",
+        "Permit Exp. Date": " 09/22/2022",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.979404,
+          37.737656
+        ],
+        "type": "Point"
+      },
+      "id": "4cadba96dda97e3e4a8396a6a8868c7b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Waste Management of KY LLC",
+        "Permit Exp. Date": " 09/24/2025",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.720393,
+          38.137
+        ],
+        "type": "Point"
+      },
+      "id": "5295e7256b808070e1fab15fcc9ad05c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Hopkins Co Regional Landfill - Bituminous Resources Inc",
+        "Permit Exp. Date": " 05/26/2021",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.382216,
+          37.155739
+        ],
+        "type": "Point"
+      },
+      "id": "56068dc9b16670f321e9b4f52e3db935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Republic Services Of KY - Valley View Landfill",
+        "Permit Exp. Date": " 12/31/2022",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.295908,
+          38.497622
+        ],
+        "type": "Point"
+      },
+      "id": "8f2df773a2daa5024250857452ef504e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "West KY Landfill",
+        "Permit Exp. Date": " 01/11/2022",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.674383,
+          36.69105
+        ],
+        "type": "Point"
+      },
+      "id": "9a0e3bbcd40678cf05d7f6db8023daf7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Tri-K Landfill Inc",
+        "Permit Exp. Date": " 06/30/2022",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.679806,
+          37.470291
+        ],
+        "type": "Point"
+      },
+      "id": "9a93704111540b8f59b2a6e40af93f03"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cawood Water District",
+        "SI Type": "Residential Landfill",
+        "Status": "Operating"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.236284,
+          36.783218
+        ],
+        "type": "Point"
+      },
+      "id": "9d12f66a8972e149371ce3839c1228df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Glasgow Regional Landfill",
+        "SI Type": "Contained Landfill",
+        "Status": "Active",
+        "Permit Exp. Date": "05/01/2023",
+        "Entity Type": "Municipal"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.964956,
+          36.988794
+        ],
+        "type": "Point"
+      },
+      "id": "a59822320008e618d850e63d0940a196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "accuracy": "point",
+        "Name": "Boyd Co Sanitary Landfill",
+        "Status": "Active",
+        "Entity Type": "Private",
+        "SI Type": "Contained Landfill",
+        "Permit Exp. Date": "01/15/2026"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.738575,
+          38.37573
+        ],
+        "type": "Point"
+      },
+      "id": "address.889708182580118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "County",
+        "Name": "Hardin Co Contained Landfill",
+        "Permit Exp. Date": " 11/09/2025",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.729059,
+          37.712524
+        ],
+        "type": "Point"
+      },
+      "id": "b69af3c00b71c333e67f1f71c3874171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Waste Path Sanitary Landfill LLC",
+        "Permit Exp. Date": " 07/09/2025",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.401295,
+          37.044537
+        ],
+        "type": "Point"
+      },
+      "id": "c36c364e7429f7c852a0c6b81a53c2f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "County",
+        "Name": "West Daviess Co Landfill",
+        "Permit Exp. Date": "06/30/2022",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.277005,
+          37.67226
+        ],
+        "type": "Point"
+      },
+      "id": "cff5992fa61259468a022e6f491a8c68"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Laurel Ridge Landfill",
+        "Permit Exp. Date": " 01/01/2022",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.091909,
+          37.033327
+        ],
+        "type": "Point"
+      },
+      "id": "d85710d1511a74d5a5c79f6cd5f9735a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Federal",
+        "Name": "Dept of Energy-Paducah Gaseous Diffusion Plant",
+        "Permit Exp. Date": " 11/04/2026",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.816788,
+          37.083754
+        ],
+        "type": "Point"
+      },
+      "id": "e16a644b4a9bcc5e3533e947e518090e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Benson Valley Landfill",
+        "Permit Exp. Date": " 07/11/2025",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.981559,
+          38.131129
+        ],
+        "type": "Point"
+      },
+      "id": "e33db475c98e736cd02578f5e35109e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "County",
+        "Name": "Republic Services of KY LLC - Ohio Co Landfill Inc",
+        "Permit Exp. Date": " 06/10/2022",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.931852,
+          37.412861
+        ],
+        "type": "Point"
+      },
+      "id": "ede2b563c52666ec64dbc2858b414f62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "Private",
+        "Name": "Central KY Landfill",
+        "Permit Exp. Date": " 06/30/2022",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.545029,
+          38.346071
+        ],
+        "type": "Point"
+      },
+      "id": "f0b0d09373c779b735a5975ea19df394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entity Type": "County",
+        "Name": "Pike Co Landfill",
+        "Permit Exp. Date": " 01/29/2023",
+        "SI Type": "Contained Landfill",
+        "Status": "Active"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.451584,
+          37.576224
+        ],
+        "type": "Point"
+      },
+      "id": "f2aada39f254e097e1ea821a2e9a0b0b"
+    }
+  ],
+  "type": "FeatureCollection"
+}
